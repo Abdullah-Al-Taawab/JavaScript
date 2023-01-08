@@ -1,0 +1,25 @@
+//JS has 7 Primtives data types.
+let a=null
+let b="Taawab"
+let c=18101011
+let d=true
+let e=BigInt("567")
+let f=undefined
+let g=Symbol("Iam a nice symbol")
+console.log(a,b,c,d,e,f,g)
+console.log(typeof c)
+
+//objects in js
+//objects are like key-value pair. objects are non-primitive data type
+
+const item =
+  {
+    "Taawab":18101011,
+    "University":"Bracu",
+    "Graduated":true,
+    "Id":null,
+    "Role":undefined
+    
+    
+  }
+console.log(item["University"])
