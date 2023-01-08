@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 let name="Taawab"
 console.log(name)
 name="Anik"
